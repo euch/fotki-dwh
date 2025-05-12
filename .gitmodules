@@ -1,0 +1,9 @@
+[submodule "core_etl"]
+	path = core_etl
+	url = git@bitbucket.org:euch/fotki-dwh-core-etl.git
+[submodule "initial_import"]
+	path = initial_import
+	url = git@bitbucket.org:euch/fotki-dwh-initial-import.git
+[submodule "rm_duplicates"]
+	path = rm_duplicates
+	url = git@bitbucket.org:euch/fotki-dwh-rm-duplicates.git
