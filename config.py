@@ -18,8 +18,6 @@ DAG_NAME_DWH_INITIAL_IMPORT = 'dwh_initial_import'
 DAG_NAME_DWH_IMPORT = 'dwh_import'
 DAG_NAME_DWH_REFRESH = 'dwh_refresh'
 
-IMAGE_ANALYZER_IGNORE_EXIF_TAGS = ["JPEGThumbnail"]
-
 IMPORT_COMPANION_FILE_EXTENSIONS = ['.mov', '.MOV', '.mp4', '.MP4', ]
 IMPORT_TIMESTAMP_FMT, IMPORT_TIMESTAMP_LEN = '%Y-%m-%d-auto', 15
 
@@ -32,3 +30,6 @@ VAR_RP_TRASH = _var_prefix + 'RP_TRASH'
 
 VAR_TG_TOKEN = _var_prefix + 'TG_BOT_TOKEN'
 VAR_TG_USER_IDS = _var_prefix + 'TG_USER_IDS'
+
+VAR_METADATA_ENDPOINT = _var_prefix + 'METADATA_ENDPOINT'
+VAR_EXIF_TS_ENDPOINT = _var_prefix + 'EXIF_TS_ENDPOINT'
