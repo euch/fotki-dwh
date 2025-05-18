@@ -4,3 +4,6 @@
 [submodule "image-helper"]
 	path = image-helper
 	url = git@bitbucket.org:euch/fotki-dwh-image-helper.git
+[submodule "ai-helper"]
+	path = ai-helper
+	url = git@bitbucket.org:euch/fotki-dwh-ai-helper.git
