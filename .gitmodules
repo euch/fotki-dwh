@@ -7,6 +7,3 @@
 [submodule "ai-helper"]
 	path = ai-helper
 	url = git@bitbucket.org:euch/fotki-dwh-ai-helper.git
-[submodule "tg-bot"]
-	path = tg-bot
-	url = git@bitbucket.org:euch/fotki-dwh-tg-bot.git
