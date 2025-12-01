@@ -4,3 +4,6 @@
 [submodule "image-helper"]
 	path = image-helper
 	url = git@github.com:euch/fotki-dwh-image-helper.git
+[submodule "tk-client"]
+	path = tk-client
+	url = git@github.com:euch/fotki-dwh-tk-viewer.git
